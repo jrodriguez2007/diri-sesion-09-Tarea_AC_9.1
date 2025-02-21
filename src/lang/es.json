@@ -1,0 +1,26 @@
+{
+    "app.label.language": "Idioma",
+    "app.label.number": "Número",
+    "app.label.amount": "Importe",
+    "app.label.date": "Fecha",
+    "app.main.selector.title": "Aplicación de Matrículas",
+    "app.main.selector.language": "Seleccionar idioma",
+
+    "app.students.label.select": "Seleccionar tipo de estudio",
+    "app.students.label.grade": "Grado",
+    "app.students.label.postgraduate": "Postgrado",
+    "app.students.label.enrollments": "Matriculaciones actuales",
+    "app.students.form.create.label.title": "Datos del Estudiante",
+    "app.students.form.create.label.name": "Nombres",
+    "app.students.form.create.label.lastname": "Apellidos",
+    "app.students.form.create.button.register": "Registrar",
+    "app.students.form.create.button.update": "Actualizar",
+    "app.students.form.create.button.cancel": "Cancelar",
+    "app.students.form.create.message.welcome": "Bienvenido/a {fullName}",
+
+    "app.students.list.head.title": "Lista de Estudiantes",
+    "app.students.list.head.name": "Nombre",
+    "app.students.list.head.lastname": "Apellido",
+    "app.students.list.head.program": "Programa",
+    "app.students.list.head.actions": "Acciones"
+}

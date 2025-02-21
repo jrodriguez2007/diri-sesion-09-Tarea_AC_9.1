@@ -1,0 +1,26 @@
+{
+    "app.label.language": "Language",
+    "app.label.number": "Number",
+    "app.label.amount": "Importe",
+    "app.label.date": "Date",
+    "app.main.selector.title": "Enrollment Application",
+    "app.main.selector.language": "Select language",
+
+    "app.students.label.select": "Select study type",
+    "app.students.label.grade": "Grade",
+    "app.students.label.postgraduate": "Postgraduate",
+    "app.students.label.enrollments": "Current enrollments",
+    "app.students.form.create.label.title": "Student Information",
+    "app.students.form.create.label.name": "Name",
+    "app.students.form.create.label.lastname": "LastName",
+    "app.students.form.create.button.register": "Register",
+    "app.students.form.create.button.update": "Update",
+    "app.students.form.create.button.cancel": "Cancel",
+    "app.students.form.create.message.welcome": "Welcome {fullName}",
+
+    "app.students.list.head.title": "Student List",
+    "app.students.list.head.name": "Name",
+    "app.students.list.head.lastname": "LastName",
+    "app.students.list.head.program": "Program",
+    "app.students.list.head.actions": "Actions"
+}
